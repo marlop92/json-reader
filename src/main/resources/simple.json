@@ -2,6 +2,7 @@
   "name": "name",
   "inner": {
     "name": "name",
-    "age": 26
+    "age": 26,
+    "type": "None"
   }
 }
